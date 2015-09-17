@@ -1,5 +1,6 @@
-Jane below average
-Hector perfect
-Mary above average
-Sam above average
-David below average
+Sam scored below average.
+David scored below average.
+Hector scored a perfect game!
+Jane scored below average.
+Tristin scored above average.
+Mary scored below average.

@@ -8,3 +8,5 @@ Jane
 160
 Sam
 210
+Tristin
+295

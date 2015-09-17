@@ -37,12 +37,13 @@ for i in range(0, len(bowlerlist), 2):
     dictionary[bowlerlist[i]] = float(bowlerlist[i+1])
 for key in dictionary.keys():
     if dictionary[key]==300:
-        output += key + " perfect\n"
+        output += key + " scored a perfect game!\n"
     elif dictionary[key]<average:
-        output += key + " below average\n"
-    elif dictionary[key]>=average:
-        output += key + " above average\n"
-
+        output += key + " scored below average.\n"
+    elif dictionary[key]>average:
+        output += key + " scored above average.\n"
+    elif dictionaru[key]==average:
+        output += key + " scored exactly average.\n"
 
 #create/open the destination txt file for writing
 score_averages = open('bowlingaverage.txt', 'w')
