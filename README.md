@@ -1,7 +1,7 @@
 # Bowlers
 Score Evaluation
 
-This Python script was created as a project in my Computer Programming I class. It was one of the first projects we were assigned to work on independently. The objective of this project was to both read from and write to a text file, as well as create a dictionary.
+This Python script was created as a project in my Fundamentals of Computing class. It was one of the first projects we were assigned to work on independently. The objective of this project was to both read from and write to a text file, as well as create a dictionary.
 
 input from bowlingscores.txt:
 >     David
