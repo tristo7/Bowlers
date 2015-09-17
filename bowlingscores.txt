@@ -1,0 +1,10 @@
+David
+102
+Hector
+300
+Mary
+195
+Jane
+160
+Sam
+210
