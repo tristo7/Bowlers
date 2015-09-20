@@ -3,7 +3,7 @@ Score Evaluation
 
 This Python script was created as a project in my Fundamentals of Computing class. It was one of the first projects we were assigned to work on independently. The objective of this project was to both read from and write to a text file, as well as create a dictionary.
 
-input from bowlingscores.txt:
+Input from bowlingscores.txt:
 >     David
 >     102
 >     Hector
@@ -32,7 +32,7 @@ This function takes the points list as an argument. It iterates over the list to
 
 A dictionary is used to associate relative scores to the average score. The results are saved into a new text file.
 
-output from bowlingaverage.txt:
+Output from bowlingaverage.txt:
 >     Sam scored below average.
 >     David scored below average.
 >     Hector scored a perfect game!
