@@ -28,9 +28,9 @@ The script reads in an arbitrary amount of names and scores from a text file. It
     	average = total/(len(avrg))
     	return average
     
-This function takes the points list as an argument. It then iterates over the list to get a total. Finally, it returns the average by dividing the total by the number of items in the list.
+This function takes the points list as an argument. It iterates over the list to get a total. After completion, it returns the average by dividing the total by the number of items in the list.
 
-A dictionary is then used to associate relative scores to the average score. The results are then saved into a new text file.
+A dictionary is used to associate relative scores to the average score. The results are saved into a new text file.
 
 output from bowlingaverage.txt:
 >     Sam scored below average.
